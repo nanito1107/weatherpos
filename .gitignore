@@ -1,0 +1,9 @@
+# Artefactos de Visual Studio: se regeneran al compilar y pesan 200+ MB.
+bin/
+obj/
+packages/
+.vs/
+*.csproj.user
+*.suo
+# Copias sueltas dentro del arbol
+*.zip
